@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         Button fragmentButton1 = (Button) findViewById(R.id.btnFragment1);
         Button fragmentButton2 = (Button) findViewById(R.id.btnFragment2);
         fragmentButton1.
-
+new text
                 setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
